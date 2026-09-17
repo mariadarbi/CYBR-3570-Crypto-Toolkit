@@ -1,0 +1,6 @@
+jupyterlab
+pytest
+matplotlib
+numpy
+pycryptodome
+cryptography
